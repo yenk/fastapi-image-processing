@@ -1,0 +1,5 @@
+fastapi[all]
+Pillow
+tensorflow
+numpy
+python-multipart
