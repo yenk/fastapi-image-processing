@@ -29,7 +29,6 @@ def get_images():
     output = [o for o in os.listdir("static/")]
     return out
 
-@app.get
 
 
 if __name__ == "__main__":
